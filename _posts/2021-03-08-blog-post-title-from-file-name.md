@@ -1,5 +1,1 @@
-## MDL Collective Seminar @ ISU
 
-Spring 2024
-
-### Jan 8, First meeting, discussion on the topics and plan for the semester.
