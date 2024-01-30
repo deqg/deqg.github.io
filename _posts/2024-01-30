@@ -1,0 +1,4 @@
+# PAC Learning Framework and Rademacher Complexity, Jan 31 (2-4 PM, Carver 305)
+We will discuss the estimate of the generalization error in machine learning theory.
+Continuing with our last discussion on the Monte-Carlo error estimate, 
+we will see how the generalization error of machine learning is estimated.
